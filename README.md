@@ -4,7 +4,7 @@
 
 ### Explorando IA Generativa em um Pipeline de ETL com Python
 
-### Desafios de código#
+### Desafios de código
 
 ### Primeiros passos SQL e NoSQL
 
