@@ -1,12 +1,13 @@
 # bootcamp-santander-ciencia-de-dados
-##Repositório com arquivos e exercicios do Bootcamp Santander Ciência de dados##
 
-###Explorando IA Generativa em um Pipeline de ETL com Python###
+## Repositório com arquivos e exercicios do Bootcamp Santander Ciência de dados
 
-###Desafios de código###
+### Explorando IA Generativa em um Pipeline de ETL com Python
 
-###Primeiros passos SQL e NoSQL###
+### Desafios de código#
 
-###Visualização e análise de dados com Power BI###
+### Primeiros passos SQL e NoSQL
 
-###Fundamentos e técnicas de Machine Learning###
+### Visualização e análise de dados com Power BI
+
+### Fundamentos e técnicas de Machine Learning
