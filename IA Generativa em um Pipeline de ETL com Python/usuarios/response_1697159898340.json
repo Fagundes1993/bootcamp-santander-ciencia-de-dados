@@ -1,0 +1,18 @@
+{
+  "id": 4948,
+  "name": "Beckham",
+  "account": {
+    "id": 5252,
+    "number": "000100",
+    "agency": "000100",
+    "balance": 0,
+    "limit": 1000
+  },
+  "card": {
+    "id": 4811,
+    "number": "**** ****  **** 0100",
+    "limit": 1000
+  },
+  "features": [],
+  "news": []
+}

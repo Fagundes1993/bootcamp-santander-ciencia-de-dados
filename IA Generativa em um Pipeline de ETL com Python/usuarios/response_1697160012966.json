@@ -1,0 +1,18 @@
+{
+  "id": 4949,
+  "name": "Figo",
+  "account": {
+    "id": 5253,
+    "number": "000200",
+    "agency": "000100",
+    "balance": 0,
+    "limit": 2000
+  },
+  "card": {
+    "id": 4812,
+    "number": "**** ****  **** 0200",
+    "limit": 2000
+  },
+  "features": [],
+  "news": []
+}

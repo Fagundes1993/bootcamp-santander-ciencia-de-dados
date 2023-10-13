@@ -1,0 +1,18 @@
+{
+  "id": 4950,
+  "name": "Zidane",
+  "account": {
+    "id": 5254,
+    "number": "000300",
+    "agency": "000100",
+    "balance": 0,
+    "limit": 3000
+  },
+  "card": {
+    "id": 4813,
+    "number": "**** ****  **** 0300",
+    "limit": 3000
+  },
+  "features": [],
+  "news": []
+}
