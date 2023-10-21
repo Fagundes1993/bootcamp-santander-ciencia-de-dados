@@ -19,4 +19,10 @@ ORDER BY Total ASC;
 
 -- Projetos por departamento
 select Pname, Dnum from project p inner join departament d on Dnum = Dnumber;
-select Pname, count(*) as projects from project p inner join departament d on Dnum = Dnumber group by 1;
+SELECT 
+    Dnum, COUNT(*) AS projects
+FROM
+    project p
+        INNER JOIN
+    departament d ON Dnum = Dnumber
+GROUP BY 1;
